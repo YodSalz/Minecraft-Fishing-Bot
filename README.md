@@ -1,5 +1,5 @@
 # Minecraft-Fishing-Bot
-Python Bot that fishes in Minecraft based on Pixel Colors (EXE (folder abt 20 MB) included in the EXE Folder, that has to be downloaded completely)
+Python Bot that fishes in Minecraft based on Pixel Colors (EXE included in the EXE Folder)
 
 How To Use:
 1. First start the bot (command Prompt if py file -- EXE File if exe file)
