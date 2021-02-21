@@ -15,7 +15,8 @@ How To Use:
 
 It sometimes won´t work, just restart, the Bot is Beta, fixes come soon
 
-ATTENTION---------------------
+ATTENTION
+---------------------
 The Bot here was created on a server system where u have to move every 7 fishes
 so it will move every 7 fishes!!!! if u dont want this just remove the dowalk() function and the fishings system
 ------------------------------
