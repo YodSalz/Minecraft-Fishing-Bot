@@ -1,5 +1,5 @@
 # Minecraft-Fishing-Bot
-Python Bot that fishes in Minecraft based on Pixel Colors (EXE included in the EXE Folder, that has to be downloaded completely)
+Python Bot that fishes in Minecraft based on Pixel Colors (EXE (folder abt 20 MB) included in the EXE Folder, that has to be downloaded completely)
 
 How To Use:
 1. First start the bot (command Prompt if py file -- EXE File if exe file)
@@ -30,3 +30,5 @@ then whent he last black pixel is found i knew the area where the lure will alwa
 so i´m taking screenshots as fast as i can, go a 1 pixel (width) line down (about 20 pixels down) and see how many reds are in there (red is when
 the r value is at least 2g and 2b [rgb])
 if this treshold drops to 0 a fish has bitten and the bot will fish
+
+libraries are all imported at the top so if u plan on using the .py version u will need to check if u installed these
